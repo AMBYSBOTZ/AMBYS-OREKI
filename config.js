@@ -12,8 +12,8 @@ global.autoReadAll = true
 // Ganti Sewajarnya
 global.owner = ['6285798267620']
 global.pengguna = 'AMBYS TITLED DOULUO'
-global.premium = []
-global.author = 'KiZakiXD'
+global.premium = [] 
+global.author = 'XIAO SAN'
 global.pemilik = ['6285798267620'] 
 global.ownernomer = '6285798267620'
 global.ownername = 'XIAO SAN'
