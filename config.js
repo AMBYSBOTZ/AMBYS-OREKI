@@ -36,7 +36,7 @@ global.email = 'faridahidah679@gmail.com'
 global.region = 'Indonesia'
 global.link = 'nekopoi.care'
 global.sc = 'ga ada ga open'
-global.packname = '"{\nAuthor: KiZakiXD"\n"Bot Number: 6285848376737"\n"Bot Name: Chitanda - MD"\n"Instagram: @iamkizakixd"\n}' 
+global.packname = '"{\nAuthor: KiZakiXD"\n"Bot Number: 6282118221671"\n"Bot Name: Chitanda - MD"\n"Instagram: @granger_ambys"\n}' 
 global.author = '' 
 global.sessionName = 'session'
 global.prefa = ['#','!','/','']
@@ -60,7 +60,7 @@ global.mess = {
 }
     global.limitawal = {
     premium: "Unlimited",
-    free: 30,
+    free: 100,
     monayawal: 1000
 }
    global.rpg = {
